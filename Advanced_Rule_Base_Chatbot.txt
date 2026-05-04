@@ -1,0 +1,87 @@
+🔥 Title
+
+End-to-End Data Science Pipeline with Intelligent Agent and Machine Learning Models
+
+👨‍💻 Developed By
+
+BHARATH M
+AI-Generalist, iPEC Solutions Pvt. Ltd., Bangalore
+
+🚀 What This Project Does
+
+This project combines Data Science + AI Chatbot into one system:
+
+📂 Loads and processes data
+📊 Performs data analysis (EDA)
+🤖 Builds an intelligent chatbot
+🧠 Uses machine learning concepts
+💬 Answers user queries intelligently
+🧩 Main Components
+1️⃣ Data Science Pipeline
+CSV data loading
+Missing value handling
+Data preprocessing (encoding, scaling)
+Exploratory Data Analysis (EDA)
+
+👉 This part helps in understanding and cleaning data
+
+2️⃣ Intelligent Chatbot System
+
+This is the main highlight of your project 🔥
+
+How it works:
+Uses Sentence Transformers model (all-MiniLM-L6-v2)
+Converts questions into vectors (embeddings)
+Stores all Q&A in vector form
+When user asks a question:
+Converts input into vector
+Compares with stored questions
+Finds most similar question
+Returns the best answer
+
+👉 Uses cosine similarity for matching
+
+3️⃣ Chatbot Features
+⚡ Fast response (<10 ms)
+🎯 Similarity threshold control
+📊 Confidence score display
+🔍 Top-k matching system (shows best matches)
+4️⃣ User Interface (UI)
+
+Built using:
+👉 Gradio
+
+Features:
+
+Chat interface 💬
+Adjustable similarity threshold
+Confidence score display
+Interactive UI
+5️⃣ Dataset
+File: qa_data.txt
+Contains:
+Python basics
+Machine Learning
+Deep Learning
+NLP
+Transformers
+Modern AI (RAG, RLHF, etc.)
+⚙️ Technologies Used
+Python 🐍
+Sentence Transformers 🤖
+PyTorch 🔥
+Gradio 🌐
+NLP techniques
+📦 Libraries Required
+sentence-transformers
+torch
+gradio
+💡 Key Design Ideas
+Pre-computed embeddings → faster performance
+Cosine similarity → accurate matching
+Threshold tuning → flexible responses
+Model upgrade option → better accuracy
+🎯 Final Summary (Simple)
+
+👉
+This project builds an intelligent chatbot that understands user questions using AI embeddings and returns the most relevant answers, combined with a complete data science pipeline for data analysis and preprocessing.

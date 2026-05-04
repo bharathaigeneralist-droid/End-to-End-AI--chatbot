@@ -1,0 +1,201 @@
+Q: Hi?
+A: Hello! 💪 Ready to stay fit?
+Q: Hello?
+A: Hi there! How can I help your fitness journey?
+Q: Hey?
+A: Hey! Let’s get moving 🏃‍♂️
+Q: Good morning?
+A: Good morning! Start your day with exercise ☀️
+Q: Good evening?
+A: Good evening! Time for a workout 💪
+Q: How are you?
+A: I’m fit and ready 😄
+Q: What is your name?
+A: I’m your Fitness Chatbot 🤖
+Q: Who created you?
+A: I was created by Bharath 💻
+Q: What can you do?
+A: I can help with workouts, diet, and fitness tips
+Q: Can you help me?
+A: Yes! Ask me about workout, diet, BMI, or motivation
+Q: Can you suggest a workout?
+A: Try pushups, squats, and planks
+Q: What is a good home workout?
+A: Try jumping jacks, pushups, and lunges
+Q: What is a good gym workout?
+A: Try bench press, squats, and deadlift
+Q: What is a beginner workout?
+A: Start with light cardio and bodyweight exercises
+Q: What is an advanced workout?
+A: Try HIIT and heavy strength training
+Q: What is a chest workout?
+A: Pushups, bench press, chest fly
+Q: What is a leg workout?
+A: Squats, lunges, leg press
+Q: What is an arm workout?
+A: Bicep curls and tricep dips
+Q: What is a shoulder workout?
+A: Shoulder press and lateral raises
+Q: What is an abs workout?
+A: Crunches, plank, leg raises
+Q: What is a full body workout?
+A: Squats, pushups, pullups
+Q: What are cardio exercises?
+A: Running, cycling, skipping
+Q: What are weight loss exercises?
+A: HIIT, running, cycling
+Q: What are muscle gain exercises?
+A: Strength training with weights
+Q: How many days should I workout?
+A: 4 to 6 days per week
+Q: What is the best time to workout?
+A: Morning or evening, be consistent
+Q: What is warm up?
+A: Stretching and light jogging
+Q: What is cool down?
+A: Slow walking and stretching
+Q: Can I workout daily?
+A: Yes, but include rest days
+Q: Why is rest day important?
+A: It helps muscle recovery
+Q: What is a diet plan?
+A: Balanced diet with protein, carbs, fats
+Q: What is a weight loss diet?
+A: Calorie deficit with high protein
+Q: What is a muscle gain diet?
+A: High protein and calorie surplus
+Q: What are high protein foods?
+A: Eggs, chicken, paneer, dal
+Q: What are low calorie foods?
+A: Vegetables and fruits
+Q: What is a healthy breakfast?
+A: Oats, eggs, fruits
+Q: What is a healthy lunch?
+A: Rice, dal, vegetables
+Q: What is a healthy dinner?
+A: Light meal with protein
+Q: What should I eat before workout?
+A: Banana or oats
+Q: What should I eat after workout?
+A: Protein and carbs meal
+Q: What are protein sources?
+A: Eggs, milk, chicken
+Q: What is vegetarian protein?
+A: Paneer, tofu, lentils
+Q: What is non veg protein?
+A: Chicken, fish, eggs
+Q: How much water should I drink?
+A: 2 to 4 liters daily
+Q: Do I need supplements?
+A: Only if necessary
+Q: Is protein powder safe?
+A: Yes, if used properly
+Q: How many calories per day?
+A: Depends on your goal
+Q: What are fat loss foods?
+A: High protein, low carbs
+Q: What foods should I avoid?
+A: Junk food and sugar
+Q: Can I have cheat meal?
+A: Yes, once a week
+Q: What is intermittent fasting?
+A: Eating within time window
+Q: What is keto diet?
+A: Low carb, high fat diet
+Q: What is balanced diet?
+A: All nutrients in proper ratio
+Q: What is meal timing?
+A: Eat every 3–4 hours
+Q: What are healthy snacks?
+A: Nuts and fruits
+🟢 56–70: BMI & Health
+Q: What is BMI?
+A: Body Mass Index
+Q: How to calculate BMI?
+A: Use weight and height formula
+Q: What is ideal weight?
+A: Depends on your height
+Q: What is overweight?
+A: BMI above 25
+Q: What is underweight?
+A: BMI below 18.5
+Q: What is a healthy lifestyle?
+A: Exercise, diet, and sleep
+Q: How many steps per day?
+A: 8000 to 10000 steps
+Q: Why is sleep important?
+A: It helps recovery
+Q: How much sleep needed?
+A: 7 to 8 hours
+Q: How to reduce stress?
+A: Try meditation
+Q: How to improve heart health?
+A: Do cardio regularly
+Q: How much sugar intake?
+A: Limit sugar consumption
+Q: Why hydration is important?
+A: Keeps body active
+Q: How to improve posture?
+A: Keep your back straight
+Q: How to improve flexibility?
+A: Do stretching exercises
+Q: Can you motivate me?
+A: You can do it 💪
+Q: I feel lazy, what to do?
+A: Start small, just 10 minutes
+Q: I want to quit, what to do?
+A: Don’t give up, stay strong
+Q: I skipped workout, what now?
+A: Continue tomorrow, stay consistent
+Q: How to stay consistent?
+A: Build daily habits
+Q: Give me fitness tips?
+A: Be consistent and patient
+Q: Give me success tips?
+A: Discipline is key
+Q: Give me morning motivation?
+A: Start now, not later
+Q: Give me gym motivation?
+A: Every rep counts
+Q: Give me weight loss motivation?
+A: Progress takes time
+Q: How to build discipline?
+A: Stay committed
+Q: How to build habit?
+A: Repeat daily
+Q: How to stay focused?
+A: Avoid distractions
+Q: I have no energy, what to do?
+A: Eat healthy and rest
+Q: I feel tired, what to do?
+A: Take rest and recover
+Q: Can you tell me a joke?
+A: Why did gym close? No gains 😂
+Q: Thank you?
+A: You’re welcome!
+Q: Bye?
+A: Goodbye! Stay fit 👋
+Q: Can I exit?
+A: Yes, type exit
+Q: Can I stop?
+A: Yes, type stop
+Q: What is fitness?
+A: Being healthy and active
+Q: Why should I exercise?
+A: Improves health and fitness
+Q: What are gym benefits?
+A: Builds strength and stamina
+Q: What is yoga?
+A: Improves flexibility and peace
+Q: How to track progress?
+A: Use apps or notebook
+Q: Do you have an app?
+A: Not yet, coming soon
+Q: Are you an AI?
+A: Yes, I am 🤖
+Q: What is your purpose?
+A: To help you stay fit
+Q: Can you always help me?
+A: Yes, always!
+Q: Who are you?
+A: I am your fitness assistant 💪
