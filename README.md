@@ -23,4 +23,4 @@ Swap all-MiniLM-L6-v2 for all-mpnet-base-v2 (768-dim) for higher accuracy at the
 - gradio>=4.0.0
 
 - ## Project
-- ![Uploading Screenshot 2026-05-04 195343.png…]()
+<img width="1245" height="656" alt="Screenshot 2026-05-04 195343" src="https://github.com/user-attachments/assets/24814534-72c8-41ea-ace9-2af49c94a7cc" />
